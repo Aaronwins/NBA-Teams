@@ -9,10 +9,8 @@ PURPOSE OF PROJECT: Final Project for Computer Science 2
 VERSION or DATE: 12.20.2022
 HOW TO START THIS PROJECT:
 AUTHORS: Aaron Amalraj 
-USER INSTRUCTIONS:
-Explain each class and their relationships to each other 
-o Indicate the location in your project (class and line number(s)) where I will find each of 
-the required Java features from Section I above: 
+
+o Features/Components of this project: 
 
 A. Four or more classes with object class interaction. 
 Import statements should specify all precise Class names. 
@@ -97,12 +95,9 @@ L. * GUI component (need not be integrated into your project)
 *during Team creation in team class, and in get method in the NBALeague Class.
 *Integrated into project
 
-*Something New – incorporate at least one new class or method that you locate in the Java API.
-     *Incorporated the toArray method to convert the playerHashSet to a playerArray, thus avoiding any duplicates that could arise
+    *Incorporated the toArray method to convert the playerHashSet to a playerArray, thus avoiding any duplicates that could arise from the Java API
 
-o Give precise instructions on how to use your project. Tell what classes and what 
-methods in each you want me to call. 
-(If I don’t know what to do, you won’t be able to earn credit for it.): 
+o Give precise instructions on how to use your project. 
 
 -Firstly, in team class you can use the test fixture if you'd like. 
 It has the Cleveland Cavs as the team and the head coach information, or you can
