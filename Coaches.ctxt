@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Coaches
+comment0.text=\r\n\ Description\ of\ class\ Coaches\:\ Subclass\ of\ abstract\ class\ \r\n\ Staff,\ contains\ more\ information\ about\ head\ coaches\ of\ the\ NBA\r\n\ Including\ theirs\ wins\ and\ losses\ over\ their\ careers\ as\ a\ coach\r\n\ @author\ Aaron\ Amalraj\r\n\ @version\ 12.16.2022\r\n
+comment1.params=height\ weight\ name\ yearsExperience\ wins\ losses
+comment1.target=Coaches(double,\ double,\ java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Coaches\r\n
+comment2.params=
+comment2.target=int\ getWins()
+comment2.text=\r\n\ Additional\ Getter\ methods\r\n\ This\ method\ is\ to\ getWins\r\n
+comment3.params=
+comment3.target=int\ getLosses()
+comment3.text=\r\n\ Method\ to\ getLosses\r\n
+comment4.params=wins
+comment4.target=void\ setWins(int)
+comment4.text=\r\n\ Additional\ setter\ methods\r\n\ This\ method\ is\ to\ set\ the\ wins\r\n
+comment5.params=losses
+comment5.target=void\ setLosses(int)
+comment5.text=\r\n\ This\ method\ is\ to\ set\ the\ losses\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Override\ the\ abstract\ toString()\ method\ in\ Staff\ Class\r\n\ Use\ generalPrintString\ to\ avoid\ repetition\r\n
+comment7.params=
+comment7.target=void\ practice()
+comment7.text=\r\n\ Override\ the\ practice\ string\ using\ Scanner\r\n\ Ask\ the\ user\ for\ next\ scheduled\ practice\r\n
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=displayInterface
+comment0.text=\r\n\ An\ interface\ class\ \r\n\ @author\ Aaron\ Amalraj\r\n\ @version\ 12.20.2022\r\n
+comment1.params=
+comment1.target=void\ helloWorld()
+comment1.text=\r\nabstract\ method\ to\ greet\ the\ user\ with\ class\ specific\ instructions\r\n
+comment2.params=
+comment2.target=void\ thankYouNote()
+comment2.text=\r\nabstract\ method\ to\ say\ thank\ you\ to\ user\ with\ class\ specific\ thank\ yous\ after\ entering\ input\ \r\n
+numComments=3
