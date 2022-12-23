@@ -177,5 +177,5 @@ Math and Science. “Java Tutorial - 17 - Changing a String to Lowercase or Uppe
 
 Software Testing and Automation. “10 - Java Program to Copy All Elements of One Array into Another Array.” Www.youtube.com, www.youtube.com/watch?v=3tJ_gXzzOpI. Accessed 20 Dec. 2022.
 
-• Class diagram (A screenshot of the BlueJ window is fine.): 
-Wasn't able to paste it into this read.txt file have attached a screenshot of diagram(blueJ window) to the zip folder
+• Class diagram: 
+Have attached a screenshot of diagram(blueJ window) to the zip folder
