@@ -5,7 +5,7 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: NBA Teams 
-PURPOSE OF PROJECT: Final Project for Computer Science 2
+PURPOSE OF PROJECT: Final Project for Java Class
 VERSION or DATE: 12.20.2022
 HOW TO START THIS PROJECT:
 AUTHORS: Aaron Amalraj 
