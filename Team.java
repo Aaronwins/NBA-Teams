@@ -1,7 +1,7 @@
 /**
  * Description of class Team: description of what an NBA team 
  * is supposed to be comprised of
- * @author Aaron Amalraj
+ * @author Aaron
  * @version 12.16.22
  * @version 12.20.22
  */
